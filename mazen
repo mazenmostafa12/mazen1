@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 from user_agent import generate_user_agent
 
-token = "6609183277:AAHucE-_2ddpame4Qnfsu5-CrTNx2lexQCc"
+token = "6442412919:AAHg0ep2wEeoREvksqRVJx9VlegfjwFURL8"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 def Tele(n, mm, yy, cvc):
